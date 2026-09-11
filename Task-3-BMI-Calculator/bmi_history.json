@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2026-09-11 14:07:18",
+        "height_m": 1.7,
+        "weight_kg": 65.0,
+        "bmi": 22.49,
+        "category": "Normal weight"
+    },
+    {
+        "date": "2026-09-11 14:07:58",
+        "height_m": 1.8,
+        "weight_kg": 90.0,
+        "bmi": 27.78,
+        "category": "Overweight"
+    }
+]
