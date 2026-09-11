@@ -122,6 +122,7 @@ def main():
         print("\n========================================")
         print("          PYTHON BMI CALCULATOR")
         print("========================================")
+        print("Developed by Bikash Gosain. \n")
         print("1. Calculate BMI")
         print("2. View BMI History")
         print("3. Exit")
