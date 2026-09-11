@@ -1,0 +1,1 @@
+Collection of Python programming tasks and projects completed during my 4-week virtual internship at InfozaTech.

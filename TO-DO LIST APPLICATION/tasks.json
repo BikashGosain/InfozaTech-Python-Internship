@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Submit internship report",
+        "completed": true,
+        "priority": "High",
+        "due_date": "2026-09-18"
+    },
+    {
+        "description": "Update GitHub README",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "2026-09-15"
+    }
+]
